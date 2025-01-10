@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class Flames_Calculator {
     public static void main(String args[]) {
-        Flames_Calcultor obj = new Flames_Calcultor();
+        Flames_Calcultor obj = new Flames_Calculator();
         Scanner in = new Scanner(System.in);
 
         System.out.println("Enter First Person Name:");

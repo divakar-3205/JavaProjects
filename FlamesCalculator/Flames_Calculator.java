@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Flames_Calcultor {
+public class Flames_Calculator {
     public static void main(String args[]) {
         Flames_Calcultor obj = new Flames_Calcultor();
         Scanner in = new Scanner(System.in);
